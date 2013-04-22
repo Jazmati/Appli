@@ -1,0 +1,13 @@
+/* 
+ * To change this template, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+{
+    "name" : "root",
+    "password" : "root",
+    "database" : "billingws",
+    "host" : "localhost",
+    "port" : 3306
+    
+}
